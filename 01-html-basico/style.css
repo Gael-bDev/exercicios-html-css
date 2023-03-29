@@ -1,0 +1,24 @@
+html {
+    background-color: rgb(59, 59, 59);
+    font-size: 36px;
+}
+
+.destaque {
+ font-weight: bold;
+}
+.destaque.color {
+    color: red;
+}
+
+.lista {
+background-color: #116D30;
+padding: 30px;
+border: 5px solid rgb(3, 56, 3) ;
+width: 50%;
+}
+
+.produtos {
+background-color: #76DA9E;
+padding: 10px;
+
+}
